@@ -1,1 +1,45 @@
-.color{color: tomato;}
+body{margin: 0px;}
+
+.color{font-size:23px ;}
+
+.done{font-family: 'Noto Sans', sans-serif;
+    color: rgb(236, 8, 160);} 
+ .just{color:rgb(173, 241, 224) ;
+text-align: justify;}
+.button{
+    padding: 10px 20px;color: ivory;
+    background-image: linear-gradient(46deg,#df3c1f,rgb(34, 81, 236));
+    border-radius: 10px;
+    box-shadow:10px 10px 44px rgb(130, 216, 231) ;
+    text-decoration:none ;
+    width: 25%;float: left; 
+    margin-left:2%;
+    padding-left:1%;
+    text-align: center;
+    color:white;
+}
+
+.vlue{
+    width: 40%;float: left; 
+    margin-left:5%;
+    padding-left:2%;
+}
+.vlue img{width:100%;}
+
+.background{background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.around{background-image: url("images/biography-bg.png");
+background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding: 100px;
+}
+#cxz{margin-top:20px ;}
+
+
+
+.modefy{font-size:20px;
+    text-align:justify;}
